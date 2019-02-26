@@ -1,0 +1,30 @@
+C:\Users\Harshal\Desktop\File Search\File Search\bin\Debug\File Search.exe.config
+C:\Users\Harshal\Desktop\File Search\File Search\bin\Debug\File Search.exe
+C:\Users\Harshal\Desktop\File Search\File Search\bin\Debug\File Search.pdb
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\File Search.csprojAssemblyReference.cache
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\MainWindow.g.cs
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\App.g.cs
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\File Search_MarkupCompile.cache
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\File Search_MarkupCompile.lref
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\MainWindow.baml
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\File Search.g.resources
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\File_Search.Properties.Resources.resources
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\File Search.csproj.GenerateResource.cache
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\File Search.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\File Search.exe
+C:\Users\Harshal\Desktop\File Search\File Search\obj\Debug\File Search.pdb
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\bin\Debug\File Search.exe.config
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\bin\Debug\File Search.exe
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\bin\Debug\File Search.pdb
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\File Search.csprojAssemblyReference.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\MainWindow.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\App.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\File Search_MarkupCompile.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\File Search_MarkupCompile.lref
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\MainWindow.baml
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\File Search.g.resources
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\File_Search.Properties.Resources.resources
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\File Search.csproj.GenerateResource.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\File Search.csproj.CoreCompileInputs.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\File Search.exe
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\File Search\File Search\obj\Debug\File Search.pdb
